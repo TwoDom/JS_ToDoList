@@ -1,2 +1,2 @@
 ## ToDo List
-[twodom.github.io/todolist](https://twodom.github.io/todolist/)
+[twodom.github.io/todolist](https://dskrzyns.github.io/todolist/)
